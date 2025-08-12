@@ -1,4 +1,5 @@
 📊 Customer Segmentation Analysis (RFM Model)
+
 📌 Overview
 This project applies RFM Analysis (Recency, Frequency, Monetary) to segment customers and identify high-value groups.
 The goal is to provide actionable insights for marketing strategies and customer retention.
