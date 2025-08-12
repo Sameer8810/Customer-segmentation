@@ -1,0 +1,6 @@
+Customer_Segment,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Monetary,Customer_Count,Monetary_Contribution_%
+Champions,15.1,11.8,6697.5,6235338.3,931,70.16
+Loyal Customers,43.9,3.9,1387.8,1400337.8,1009,15.76
+Potential Loyalists,86.3,2.0,814.0,887279.4,1090,9.98
+At Risk,147.6,1.2,340.3,260342.7,765,2.93
+Lost Customers,254.4,1.0,191.0,103910.6,544,1.17
